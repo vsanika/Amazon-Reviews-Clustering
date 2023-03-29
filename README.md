@@ -15,3 +15,7 @@ Next, I fit an LDA model to the corpus and evaluated its performance by inspecti
 
 ## Alternative Approach
 Based on the initial model, I investigated at least one alternative approach that I expected may yield more coherent topics. I tried using different data preprocessing pipelines, changing LDA hyper-parameters and the choice of clustering algorithm itself. However, none of these approaches improved the coherence beyond my preferred model.
+
+
+## Conclusion
+Overall, the reviews seem to align with my expectations about the meaning of the topics based on the most predictive words. However, there may be some overlap between topics, and some reviews may not fit neatly into a single topic.
