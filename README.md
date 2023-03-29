@@ -1,4 +1,4 @@
-# Amazon-Reviews-Clustering
+# Amazon Reviews Clustering
 
 This project involves applying topic modeling to Amazon product reviews using Latent Dirichlet Allocation (LDA) to discover classes of concerns expressed by customers.
 
